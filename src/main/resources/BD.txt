@@ -18,6 +18,4 @@ Manuela,Gomez,28,F,true,4,0,Secundaria,2000000
 Sofia,Perez,23,F,false,2,3,Tecnico,0
 Carlos,Lopez,32,M,true,2,5,Tecnico,1300000
 Santiago,Gonzalez,29,M,true,3,0,Profesional,230000
-Santiago,Escobar,26,M,false,3,5,Profesional,5000000
-Fernanda,Castrillon,24,F,true,2,3,Tecnico,3000000
-Carlos,Ramirez,39,M,false,3,0,Primaria,0
+Pedro,Carlos,24,M,false,2,3,Tecnico,1200000
